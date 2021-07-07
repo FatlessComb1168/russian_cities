@@ -1,3 +1,5 @@
+import ctypes;
+ctypes.windll.kernel32.SetConsoleTitleW('Города');
 c = ['Абаза',
     'Абакан',
 	'Абдулино',
