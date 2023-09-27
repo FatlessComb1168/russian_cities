@@ -4,6 +4,6 @@
 К сожалению, доступны для игры только российские города.
 Вы помните, что нет городов на ь и ы, поэтому если попадётся город с одной из этих букв на конце, то пишите название следующего города, начинающееся с предпоследней буквы предыдущего.
 
-Скачать .exe: https://github.com/FatlessComb1168/russian_cities/raw/main/Goroda.exe
+Скачать .exe: https://github.com/axelblatt/russian_cities/raw/main/Goroda.exe
 
-Скачать исходный код: https://github.com/FatlessComb1168/russian_cities/raw/main/Goroda.py
+Скачать исходный код: https://github.com/axelblatt/russian_cities/raw/main/Goroda.py
